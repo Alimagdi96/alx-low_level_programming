@@ -3,7 +3,7 @@
  *main - entry point
  *main: -entry point
  *Description: A C PROGRAME that print puts function
- *return: value (0) mean sucsses
+ *Return: Always 0 (Success)
  */
 int main(void)
 {
