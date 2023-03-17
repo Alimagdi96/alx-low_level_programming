@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
  *main - entry point
- *puts function
- *descriptin: of c programing
- *return: value = 0 mean sucsess
+ *main: -entry point
+ *Description: A C PROGRAME that print puts function
+ *return: value (0) mean sucsses
  */
 int main(void)
 {
